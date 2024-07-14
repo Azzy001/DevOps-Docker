@@ -1,0 +1,35 @@
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Docker files
+*.log
+*.pid
+*.db
+
+# Environment variable files
+.env
+*.env
+
+# Log files
+*.log
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Coverage reports
+coverage/
+*.cover
+*.coverage
+
+# Misc files
+misc/
