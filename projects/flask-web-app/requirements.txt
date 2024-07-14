@@ -1,1 +1,3 @@
-# pytho packages listed here
+# python packages listed here
+flask
+requests
